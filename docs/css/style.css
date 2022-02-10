@@ -36,7 +36,10 @@ img {
   margin: 0 auto;
   padding: 0 4%;
 }
-
+h1{
+  text-align: center;
+  line-height: 5;
+}
 h4{
   text-align: center;
   line-height: 5;
@@ -100,6 +103,7 @@ hr {
   margin-left: 36px;
 }
 .main-nav a {
+  /*-color: #432;*/
   color: skyblue;
 }
 .main-nav a:hover {
